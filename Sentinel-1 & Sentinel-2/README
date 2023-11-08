@@ -1,1 +1,3 @@
-
+Sentinel-2 composite images and the medians for both seasons per pixel.
+Sentinel-1 data derived from VV and VH polarization bands, including the median, standard deviation, the VH and VV ratio, Gray Level Co-occurrence Matrix (GLCM) texture variables, and the first and last percentile values per pixel.
+All Sentinel-1 parameters were also calculated separately for both seasons.
