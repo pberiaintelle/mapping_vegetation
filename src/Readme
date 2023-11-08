@@ -1,1 +1,2 @@
-
+Source data to run the GEE code.
+Includes the study area bounding box and the training and validation data.
