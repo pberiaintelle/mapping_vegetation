@@ -1,1 +1,3 @@
-
+PlanetScope NICFI monthly mosaics were used to calculate parameters including the median, standard deviation and the first and last percentile values per pixel.
+CIG vegetation index was also calculated. All the parameters were calculated separately for both seasons. Shuttle Radar Topography Mission (SRTM) provides 30-meter resolution elevation data with global coverage.
+Due to the terrain features of the area elevation data and derivatives (slope and aspect) were included in the inputs for the classification.
