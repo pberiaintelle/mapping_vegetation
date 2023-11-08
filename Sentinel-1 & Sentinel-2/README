@@ -1,3 +1,5 @@
 Sentinel-2 composite images and the medians for both seasons per pixel.
 Sentinel-1 data derived from VV and VH polarization bands, including the median, standard deviation, the VH and VV ratio, Gray Level Co-occurrence Matrix (GLCM) texture variables, and the first and last percentile values per pixel.
 All Sentinel-1 parameters were also calculated separately for both seasons.
+Shuttle Radar Topography Mission (SRTM) provides 30-meter resolution elevation data with global coverage.
+Due to the terrain features of the area elevation data and derivatives (slope and aspect) were included in the inputs for the classification.
