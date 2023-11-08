@@ -1,1 +1,2 @@
-
+Sentinel-2 composite image including the median, standard deviation, and the first and last percentile values per pixel.
+BSI and CIG indices were also calculated. All the parameters were calculated separately for every season.
