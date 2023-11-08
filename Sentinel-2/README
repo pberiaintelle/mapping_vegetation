@@ -1,2 +1,4 @@
 Sentinel-2 composite image including the median, standard deviation, and the first and last percentile values per pixel.
 BSI and CIG indices were also calculated. All the parameters were calculated separately for every season.
+Shuttle Radar Topography Mission (SRTM) provides 30-meter resolution elevation data with global coverage.
+Due to the terrain features of the area elevation data and derivatives (slope and aspect) were included in the inputs for the classification.
